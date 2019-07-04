@@ -6,6 +6,7 @@ public class Test {
 
     public void add(){
         int i=9;
+        System.out.println("hello");
 
     }
 }
